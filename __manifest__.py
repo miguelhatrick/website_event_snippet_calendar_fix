@@ -6,7 +6,7 @@
     "summary": """
             Fixes the problem with timezones on non UTC events
     """,
-    "version": "12.0.1.0.2",
+    "version": "12.0.1.0.3",
     "author": "Miguel Hatrick",
     "license": "AGPL-3",
     "maintainer": "Dacosys",
@@ -17,7 +17,6 @@
     ],
     "external_dependencies": {
         "python": [
-            'tzlocal'
         ]
     },
     "data": [
