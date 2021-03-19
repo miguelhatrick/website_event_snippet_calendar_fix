@@ -15,6 +15,11 @@
     "depends": [
         "website_event_snippet_calendar",
     ],
+    "external_dependencies": {
+        "python": [
+            'tzlocal'
+        ]
+    },
     "data": [
     ],
     "installable": True,
